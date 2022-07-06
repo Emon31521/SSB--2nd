@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    font-size: 40px;
+    color: blanchedalmond;
+    text-align: center;
+    background-color: red;
+}
+.navi{
+    background-color: blueviolet;
+    color: cornsilk;
+    text-align: center;
+    font-size: 100px;
+}
+.feature{
+    overflow: hidden;
+}
+.feature_one{
+    background-color: orange;
+    width: 50%;
+    height: 200px;
+    float: left;
+    
+}
+.feature_two{
+    background-color: aquamarine;
+    color: white;
+    width: 50%;
+    float: left;
+    height: 200px;
+}
+.feature_three{
+    background-color: crimson;
+    color: darkblue;
+    width: 50%;
+    float: left;
+    height: 200px;
+}
+.feature_four{
+    background-color: pink;
+    color: white;
+    width: 50%;
+    float: left;
+    height: 200px;
+}
+.foot{
+    background-color: burlywood;
+    color: darkgoldenrod;
+}
